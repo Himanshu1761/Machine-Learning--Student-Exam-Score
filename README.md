@@ -39,18 +39,18 @@ The project also implements regression models to predict student exam scores bas
 
 ## CBSE Grading Pattern
 
-## Marks Range 	## Grade	## Grade Point
-  91-100	      A1	         10.0
-  81-90	        A2	         9.0
-  71-80	        B1	         8.0
-  61-70	        B2	         7.0
-  51-60	        C1	         6.0
-  41-50	        C2	         5.0
-  33-40	        D	           4.0
-  21-32	        E1	         0.0
-  00-20	        E2	         0.0
+- ## Marks Range 	## Grade	 ## Grade Point
+ - 91-100	          A1	         10.0
+ - 81-90	          A2	         9.0
+ - 71-80	          B1	         8.0
+ - 61-70	          B2	         7.0
+ - 51-60	          C1	         6.0
+ - 41-50	          C2	         5.0
+ - 33-40	          D	           4.0
+ - 21-32	          E1	         0.0
+ - 00-20	          E2	         0.0
 
 ## Conclusion
-Study habits, sleep, and attendance strongly affect exam performance.
-Linear Regression and Ridge Regression provide good predictions.
-Students with consistent study hours and better attendance tend to score higher.
+- Study habits, sleep, and attendance strongly affect exam performance.
+- Linear Regression and Ridge Regression provide good predictions.
+- Students with consistent study hours and better attendance tend to score higher.
